@@ -1,0 +1,2 @@
+# deteccion-de-brillo
+brillo
